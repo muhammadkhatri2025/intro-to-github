@@ -6,7 +6,7 @@
 ## Project Description
 This Repository demonstrates my understanding of GitHub basics.
 
-## WHat i learned
-- How to creat GitHub accounts
-- READ.md formatting
+## What I learned
+- How to create GitHub accounts
+- READ.md forematting
 - VSCode integration
